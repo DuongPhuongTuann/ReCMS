@@ -1,0 +1,7 @@
+ContestID:45532
+
+000024,CSI101,Change number to hexacode,csi/test1/q1,BuiNgocAnh,1.0                                
+111111,CEA101,What is assembly?,cea.test2abc,BuiNgocAnh,2.0                               
+222222,PRF192,Format this code,mae101.test1.q1,BuiNgocAnh,5.0                        
+140424,SSL101,How to raise your voice?,ssl.book1.a1,BuiNgocAnh,3.0                                                                 
+013924,PRF192,Who invented C?,abc.assignment.q3,BuiNgocAnh,3.0
